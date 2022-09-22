@@ -1,0 +1,1 @@
+Here is tghe result: Hello this is first text file, Hello this is second text fileHere is tghe result: ${first}, ${second}Here is the result: ${first}, ${second}Here is the result: ${first}, ${second}
